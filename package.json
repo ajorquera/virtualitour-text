@@ -1,0 +1,16 @@
+{
+  "name": "virtualitour-text",
+  "version": "1.0.0",
+  "description": "Different text messages for virtualitour platform",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajorquera/virtualitour-text.git"
+  },
+  "author": "Andres Jorquera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajorquera/virtualitour-text/issues"
+  },
+  "homepage": "https://github.com/ajorquera/virtualitour-text#readme"
+}
